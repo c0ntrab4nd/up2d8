@@ -27,11 +27,13 @@ Follow these steps to get started with up2d8:
 
 ```
 3. Customize the synchronization settings in the `up2d8.json` file.
-   ```json
+
+```json
    {
    "canvas_folder_id": 123456, // Your Canvas folder ID
    "local_folder_path": "/path/to/your/local/folder"
-   }
+}
+```
 
 4. Compile and run up2d8 to begin the synchronization process.
 
